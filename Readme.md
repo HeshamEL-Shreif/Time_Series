@@ -1,4 +1,4 @@
-# Time Series Analysis Projects
+# Time Series Analysis 
 
 This repository contains a collection of notebooks covering different approaches to time series analysis and forecasting. Each notebook explores a specific method or model commonly used in time series tasks.
 
